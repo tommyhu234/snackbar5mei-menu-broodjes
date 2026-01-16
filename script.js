@@ -1,6 +1,6 @@
 const items = document.querySelectorAll('.carousel-item');
 let current = 0;
-const intervalTime = 10 * 1000;
+const intervalTime = 5 * 1000;
 
 function showNextItem() {
   items[current].classList.remove('active');

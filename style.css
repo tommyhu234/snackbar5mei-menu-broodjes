@@ -110,6 +110,16 @@ body {
   }
 }
 
+.schnitzel-menu-image {
+  position: absolute;
+  left: 63%;
+  top: 63%;
+
+  img {
+    width: 55%;
+  }
+}
+
 .broodje-kroket-image {
   position: absolute;
   left: 64%;
